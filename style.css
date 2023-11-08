@@ -261,3 +261,15 @@ hr{
     text-align: center;
     font-size: 8px;
 }
+
+@media screen and (max-width:760px){
+    .collapse{
+        
+        justify-content: center;
+    }
+
+    .navbar-nav{
+        
+        justify-content: center;
+    }
+}
